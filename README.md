@@ -1,7 +1,5 @@
-![banner] (https://www.linkedin.com/in/laiane-liboni/overlay/background-image/)
-
 <h1 align="center">Olá 👋, Eu sou Laiane Liboni</h1>
-<h3 align="center">Estudante do curso de Engenharia da Computação</h3>
+<h3 align="center">Estudante do curso de Engenharia da Computação na Universidade Virtual do Estado de São Paulo - UNIVESP</h3>
 
 - 🔭 No momento estou trabalhando **Java, HTML, CSS, JavaScript, React**
 
